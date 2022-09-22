@@ -1,0 +1,119 @@
+/* Forwork Page */
+/* body */
+.fo-bc {
+  background-image: url("../Images/bc4.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  padding-top: 8%;
+  padding-bottom: 25%;
+}
+.for-t {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  margin-top: -16px;
+}
+.for-tt {
+  color: rgb(33, 33, 33);
+  font-weight: 300;
+  font-size: 31px;
+  line-height: 26px;
+  letter-spacing: 0.02em;
+  margin-top: 16px;
+}
+.for-btn {
+  background-image: linear-gradient(
+    90deg,
+    rgb(138, 242, 218) 0%,
+    rgb(128, 237, 243) 100%
+  );
+  width: 50%;
+  border: 0;
+  padding: 18px 0px;
+}
+.for-btn1 p {
+  margin-bottom: 0;
+  text-align: start;
+  padding-left: 0px;
+}
+.for-btn2 {
+  text-align: start;
+  transition: 6s ease-in-out;
+  transition-delay: 8s;
+}
+.for-btn:hover,
+svg:hover {
+  background-image: linear-gradient(
+    85.78deg,
+    rgb(21, 229, 181) 13.65%,
+    rgb(1, 218, 230) 85.18%
+  );
+
+  padding-right: 5px;
+}
+
+/* body1 */
+.fc-by {
+  padding: 2%;
+}
+.fo-XL {
+  font-weight: 900;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.08em;
+  color: rgb(194, 193, 190);
+  margin-bottom: 48px;
+  width: 100%;
+  text-align: center;
+}
+.fo-by {
+  background-image: url("../Images/bc5.avif");
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  padding-top: 8%;
+  padding-bottom: 25%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.im-gg {
+  width: 82%;
+  height: 116%;
+}
+.fo-rr {
+  text-align: end;
+}
+.fo-oo {
+  text-align: center;
+}
+.fo-ty {
+  color: white;
+}
+.fo-tx {
+  color: white;
+}
+.fo-bz {
+  background-image: url("../Images/bc9.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  padding-top: 8%;
+  padding-bottom: 25%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+.f-ww {
+  margin-bottom: 7%;
+}

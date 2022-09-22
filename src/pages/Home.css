@@ -1,0 +1,120 @@
+
+  /*body*/
+  video {
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: center;
+    object-position: center;
+  }
+  .vdo-class{
+    position: relative;
+  }
+ .overlay-flex{
+  display: flex;
+  
+  position: absolute;
+  top:60px;
+ }
+  .overlay-flex-btn{
+   
+   
+  }
+  /* body1 */
+  .sli-der {
+    background-color: #201e1e;
+    padding: 12%;
+  }
+  .ca-text {
+    color: white;
+  }
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    display: none;
+  }
+  .carousel-indicators {
+    top: 8rem;
+  }
+  .fix-l {
+    text-align: center;
+  }
+  
+  /*body2*/
+  .bt-bc {
+    background-color: black;
+    padding: 7%;
+  }
+  .bt-text1 {
+    text-align: center;
+    color: white;
+  }
+  .im-g {
+    height: 111%;
+    width: 120%;
+  }
+  .t-text {
+    margin-top: 30%;
+  }
+  .for-btn {
+    background-image: linear-gradient(
+      90deg,
+      rgb(138, 242, 218) 0%,
+      rgb(128, 237, 243) 100%
+    );
+    width: 26%;
+    border: 0;
+    padding: 36px 20px;
+  }
+  .for-btn1 p {
+    margin-bottom: 0;
+    text-align: start;
+    padding-left: 0px;
+  }
+  .for-btn2 {
+    text-align: start;
+    transition: 6s ease-in-out;
+    transition-delay: 8s;
+  }
+  .for-btn:hover,
+  svg:hover {
+    background-image: linear-gradient(
+      85.78deg,
+      rgb(21, 229, 181) 13.65%,
+      rgb(1, 218, 230) 85.18%
+    );
+  
+    padding-right: 5px;
+  }
+  /* body3 */
+  .dd-text {
+    background-color: #201e1e;
+    padding: 6%;
+  }
+  .b-text,
+  .bb-text,
+  .bbb-text {
+    color: white;
+  }
+  .bb-text {
+    text-align: end;
+  }
+  .li-ne {
+    background: linear-gradient(
+        85.78deg,
+        rgb(21, 229, 181) 13.65%,
+        rgb(1, 218, 230) 85.18%
+      )
+      rgb(0, 229, 191);
+    height: 1px;
+    width: 100%;
+    margin: 4px 0px 16px;
+  }
+  .bo-dy {
+    padding: 0 125px;
+  }
+  
+  

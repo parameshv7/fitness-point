@@ -1,0 +1,92 @@
+/*heder*/
+.na-color {
+  background-color: black;
+  text-align: center;
+  color: white;
+  height: 45px;
+}
+.na-text {
+  text-align: end;
+  color: white;
+  padding-top: 9px;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+.na-link {
+  text-align: start;
+  padding-top: 10px;
+  font-family: sans-serif;
+}
+.na-link1 {
+  padding-right: 10px;
+  text-decoration: none;
+  color: #00e5bf;
+}
+
+/*nav*/
+.bcg {
+  background-color: white;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+.nav-bc {
+  background-color: white;
+}
+.na-head {
+  display: block !important;
+}
+.navbar-nav {
+  padding-left: 25%;
+}
+.na-li {
+  background-image: linear-gradient(
+    90deg,
+    rgb(138 241 218) 0%,
+    rgb(128, 237, 243) 100%
+  );
+}
+.navbar {
+  --bs-navbar-padding-y: 0rem;
+}
+.n-txt .navbar-nav{
+  justify-content: flex-end;
+}
+
+.for-btm {
+
+  background-image: linear-gradient(
+    90deg,
+    rgb(138, 242, 218) 0%,
+    rgb(128, 237, 243) 100%
+  );
+  width: 188px;
+  border: 0;
+}
+.for-btm1 p {
+  margin-bottom: 0;
+  text-align: start;
+  padding-left: 0px;
+}
+.for-btm2 {
+  text-align: start;
+  transition: 6s ease-in-out;
+  transition-delay: 8s;
+}
+.for-btm:hover,
+svg:hover {
+  background-image: linear-gradient(
+    85.78deg,
+    rgb(21, 229, 181) 13.65%,
+    rgb(1, 218, 230) 85.18%
+  );
+
+  padding-right: 5px;
+}
+.f-tt{
+  background-image: linear-gradient(
+    90deg,
+    rgb(138, 242, 218) 0%,
+    rgb(128, 237, 243) 100%
+  );
+  width: 22%;
+    margin-left: 47px;
+}
